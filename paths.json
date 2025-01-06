@@ -1,0 +1,119 @@
+{
+  "paths": [
+    {
+      "_path": "site-packages/smmap-4.0.0.dist-info/INSTALLER",
+      "path_type": "hardlink",
+      "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+      "size_in_bytes": 5
+    },
+    {
+      "_path": "site-packages/smmap-4.0.0.dist-info/LICENSE",
+      "path_type": "hardlink",
+      "sha256": "88e9d93f708d110b328a834302dd1d5c6afbda530e7721d15d80b3511d86f235",
+      "size_in_bytes": 1519
+    },
+    {
+      "_path": "site-packages/smmap-4.0.0.dist-info/METADATA",
+      "path_type": "hardlink",
+      "sha256": "09c45628318f791988e349fc359c7452f8f95c4fced0db99383a33a3a31dbcfd",
+      "size_in_bytes": 4224
+    },
+    {
+      "_path": "site-packages/smmap-4.0.0.dist-info/RECORD",
+      "path_type": "hardlink",
+      "sha256": "b7725ae6000cc8ed7c496c9d01f9d51e3f99d4490dea6d302aa374ad26f104a8",
+      "size_in_bytes": 1967
+    },
+    {
+      "_path": "site-packages/smmap-4.0.0.dist-info/REQUESTED",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "site-packages/smmap-4.0.0.dist-info/WHEEL",
+      "path_type": "hardlink",
+      "sha256": "67e9f2629c2b712ab17ddbb1e4c6e7fc3439db988fec9d831b72601af398c934",
+      "size_in_bytes": 110
+    },
+    {
+      "_path": "site-packages/smmap-4.0.0.dist-info/direct_url.json",
+      "path_type": "hardlink",
+      "sha256": "5f6d9d159433cb09f575f17fddbf54daa0a6f4b97db960abeceb1d8846528150",
+      "size_in_bytes": 78
+    },
+    {
+      "_path": "site-packages/smmap-4.0.0.dist-info/top_level.txt",
+      "path_type": "hardlink",
+      "sha256": "8744e9d5475a44e0b2d9b8d63616b5305a70815821c44510b1a2c76d9b3de86c",
+      "size_in_bytes": 6
+    },
+    {
+      "_path": "site-packages/smmap-4.0.0.dist-info/zip-safe",
+      "path_type": "hardlink",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "size_in_bytes": 1
+    },
+    {
+      "_path": "site-packages/smmap/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "895ada1ecd6119976a73ef586d07ca2c781686bec5f89516fcfb928db90a6760",
+      "size_in_bytes": 342
+    },
+    {
+      "_path": "site-packages/smmap/buf.py",
+      "path_type": "hardlink",
+      "sha256": "8d1cfb8d21bb7e7e4e6f138803ca0cbba987dfd50439c490924bb7415fce2f63",
+      "size_in_bytes": 5773
+    },
+    {
+      "_path": "site-packages/smmap/mman.py",
+      "path_type": "hardlink",
+      "sha256": "b32c7a43e80a03ae311c4ebd772cc9747382a497973a5f82635b4b3069068716",
+      "size_in_bytes": 24066
+    },
+    {
+      "_path": "site-packages/smmap/test/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "site-packages/smmap/test/lib.py",
+      "path_type": "hardlink",
+      "sha256": "3b947a99ec044230607439cf187a8d25c3dcc31d702235448b53e020abce3814",
+      "size_in_bytes": 1468
+    },
+    {
+      "_path": "site-packages/smmap/test/test_buf.py",
+      "path_type": "hardlink",
+      "sha256": "771b35f2044455facc218ab8bece8b3a5681df29fc16fcc05c84789c5d24a910",
+      "size_in_bytes": 5478
+    },
+    {
+      "_path": "site-packages/smmap/test/test_mman.py",
+      "path_type": "hardlink",
+      "sha256": "1d24ae3e5fe05e392acbcd1709c4712c4bf0662a5205ed5953ff13d42c077052",
+      "size_in_bytes": 10857
+    },
+    {
+      "_path": "site-packages/smmap/test/test_tutorial.py",
+      "path_type": "hardlink",
+      "sha256": "6700a98426ca00662dfdf9ff0a2389f655b0a56c29a84e3ecc1529faffadf5e3",
+      "size_in_bytes": 3174
+    },
+    {
+      "_path": "site-packages/smmap/test/test_util.py",
+      "path_type": "hardlink",
+      "sha256": "de12725bd2a6ee4ed74a0c71b433a41bc7956a0937948ccfe07da94744b67b08",
+      "size_in_bytes": 3468
+    },
+    {
+      "_path": "site-packages/smmap/util.py",
+      "path_type": "hardlink",
+      "sha256": "11877c3539944096de416a832cd84457e6c2af8b2d8b3ace88e589d71c533544",
+      "size_in_bytes": 7520
+    }
+  ],
+  "paths_version": 1
+}

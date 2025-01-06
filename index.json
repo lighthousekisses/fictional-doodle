@@ -1,0 +1,15 @@
+{
+  "arch": null,
+  "build": "pyhd3eb1b0_0",
+  "build_number": 0,
+  "depends": [
+    "python"
+  ],
+  "license": "BSD-3-Clause",
+  "name": "smmap",
+  "noarch": "python",
+  "platform": null,
+  "subdir": "noarch",
+  "timestamp": 1611694466349,
+  "version": "4.0.0"
+}
